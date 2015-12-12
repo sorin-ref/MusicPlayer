@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MusicPlayer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MusicFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\%User%\OneDrive\Muzică</Value>
+    </Setting>
+    <Setting Name="MusicFileType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">*.m*</Value>
+    </Setting>
+    <Setting Name="CrossFadingInterval" Type="System.TimeSpan" Scope="Application">
+      <Value Profile="(Default)">00:00:03</Value>
+    </Setting>
+    <Setting Name="Players" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="TickInterval" Type="System.TimeSpan" Scope="Application">
+      <Value Profile="(Default)">00:00:00.1000000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
