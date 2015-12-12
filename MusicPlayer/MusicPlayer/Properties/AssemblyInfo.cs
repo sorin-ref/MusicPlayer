@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("Music Player")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("DlhSoft")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Music Player")]
-[assembly: AssemblyCopyright("Copyright © 2014 DlhSoft")]
+[assembly: AssemblyCopyright("Copyright © 2014-2015 Sorin Dolha")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
