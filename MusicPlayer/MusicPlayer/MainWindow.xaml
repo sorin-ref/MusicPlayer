@@ -21,7 +21,7 @@
         </ItemsControl>
         <DockPanel KeyDown="AvailableSongsListBox_KeyDown">
             <DockPanel DockPanel.Dock="Bottom">
-                <Button DockPanel.Dock="Right" Name="NextButton" Content="_Next" Click="NextButton_Click"/>
+                <Button DockPanel.Dock="Right" Name="NextButton" Content="_Next" Click="NextButton_Click" Padding="2"/>
                 <TextBox Name="SearchTextBox" TextChanged="SearchTextBox_TextChanged" Padding="2"/>
             </DockPanel>
             <ListBox Name="AvailableSongsListBox" IsTextSearchEnabled="False" ItemsSource="{Binding AvailableSongs}" MouseDoubleClick="AvailableSongsListBox_MouseDoubleClick">
